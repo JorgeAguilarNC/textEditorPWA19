@@ -1,1 +1,10 @@
-# textEditorPWA19
+# User Story
+AS A developer
+I WANT to create notes or code snippets with or without an internet connection
+SO THAT I can reliably retrieve them for later use
+
+## Links
+The URL of the GitHub repository
+https://github.com/JorgeAguilarNC/textEditorPWA19
+
+The URL of the deployed application.
